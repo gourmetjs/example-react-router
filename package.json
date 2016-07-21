@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "gourmet-builder",
+    "start": "gourmet-builder && gourmet-express _build/development",
+    "watch": "nodemon --watch src --ext js,jsx,css,less --exec \"npm start\""
+  },
+  "dependencies": {
+    "babel-runtime": "^6.0.0",
+    "bootstrap": "^3.0.0",
+    "react": ">=0.14.0 <16.0.0",
+    "react-dom": ">=0.14.0 <16.0.0",
+    "react-router": "^2.4.0",
+    "gourmet-runtime": "^0.1.10",
+    "gourmet-bootstrap": "^0.1.10",
+    "gourmet-react": "^0.1.10",
+    "gourmet-react-router": "^0.1.10"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2",
+    "gourmet-builder": "^0.1.10",
+    "gourmet-script-builder": "^0.1.10",
+    "gourmet-style-builder": "^0.1.10",
+    "gourmet-express": "^0.1.10"
+  }
+}
