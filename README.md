@@ -1,6 +1,6 @@
 # Developing an Isomorphic App using React Router
 
-This is a companion repo of this [article](www.example.com).
+This is a companion repo of this [article](http://gourmetjs.com/docs/isomorphic-react-router.html).
 
 ## Install
 
