@@ -9,7 +9,7 @@ module.exports = {
   project: {
     pages: {
       main: {
-        path: "/**",
+        path: "/*",
         entry: "src/index.jsx"
       }
     }

@@ -11,10 +11,10 @@
     "react": ">=0.14.0 <16.0.0",
     "react-dom": ">=0.14.0 <16.0.0",
     "react-router": "^2.4.0",
-    "gourmet-runtime": "^0.1.10",
+    "gourmet-runtime": "^0.1.13",
     "gourmet-bootstrap": "^0.1.10",
     "gourmet-react": "^0.1.10",
-    "gourmet-react-router": "^0.1.10"
+    "gourmet-react-router": "^0.1.13"
   },
   "devDependencies": {
     "nodemon": "^1.9.2",
